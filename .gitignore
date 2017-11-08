@@ -1,0 +1,6 @@
+.vs/
+IPVirtualUser/bin/
+IPVirtualUser/obj/
+packages/
+library/Sitecore/
+release/
